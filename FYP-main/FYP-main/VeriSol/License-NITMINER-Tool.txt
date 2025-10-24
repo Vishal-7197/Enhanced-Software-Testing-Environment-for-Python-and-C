@@ -1,0 +1,44 @@
+NITMINER Technologies Private Limited Proprietary Software License
+
+Version 1.0
+
+Grant of License:
+
+Subject to the terms and conditions of this NITMINER Technologies Private Limited Proprietary Software License (the "License"), NITMINER Technologies Private Limited hereby grants you a personal, non-transferable, non-exclusive license to use the NITMINER Technologies Private Limited software tool (the "Software").
+
+Conditions:
+
+You may use the Software solely for your internal, non-commercial purposes during the license period. No other rights or permissions are granted by this License.
+
+Restrictions:
+
+You may not distribute, sublicense, rent, lease, or otherwise make the Software available to third parties. You may not reverse engineer, decompile, disassemble, or attempt to discover the source code of the Software.
+
+Disclaimer of Warranty:
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. NITMINER Technologies Private Limited makes no warranties regarding the accuracy or completeness of the Software or its fitness for any particular purpose.
+
+Limitation of Liability:
+
+To the extent permitted by applicable law, in no event shall NITMINER Technologies Private Limited be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Software, even if advised of the possibility of such damage.
+
+Users are solely responsible for any damages or losses arising from the use of the Software in industrial settings.
+
+Termination:
+
+This License will terminate automatically if you fail to comply with any of its terms and conditions. Upon termination, you must cease all use of the Software and destroy all copies of the Software in your possession.
+
+Governing Law:
+
+This License shall be governed by and construed in accordance with the laws of Jurisdiction under Hyderabad, India.
+
+Software reserved:
+VeriSol, .assertinserter, .cmntrmv are reserved under this License agreement. 
+
+
+Contact Information:
+
+For inquiries or clarification regarding this License, you may contact Sangharatna Godboley at the following email addresses:
+
+Email: sanghu@nitw.ac.in
+Email: nitminer@nitw.ac.in
